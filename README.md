@@ -3,4 +3,4 @@ my name is: Samuel Fernandes
 -i'am student of the curse alura
 -i'am student curse private
 
-![]<iframe src="https://giphy.com/embed/JqHDapA75HPX6IYrGu" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Plan-Ceibal-JqHDapA75HPX6IYrGu">via GIPHY</a></p>
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNkeHFoYXR1MHIxbHU2bms5NHp0Y3p2ZmlteWJlb2ltYjZrY3FmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Krtmikrc11Wy78JWmN/giphy-downsized-large.gif)
